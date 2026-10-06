@@ -35,4 +35,4 @@ MetroPT-3 데이터셋은 철도 차량의 **공기 생산 장치(APU, Air Produ
 | `Oil_level` | 압축기의 오일 부족을 감지하는 신호. 오일이 기준보다 낮으면 활성화됨 |
 | `Caudal_impulses` | APU에서 저장 탱크로 흐르는 공기량에 따라 발생하는 유량계 펄스 신호 |
 
-### 출처  https://archive.ics.uci.edu/dataset/791/metropt%2B3%2B?utm_source=chatgpt.com
+### 출처  https://archive.ics.uci.edu/dataset/791/metropt%2B3%2B
