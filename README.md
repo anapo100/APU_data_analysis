@@ -6,7 +6,7 @@
 
 [APU 고장 전조 탐지 대시보드](https://apu-early-warning-dashboard.anapo123.chatgpt.site) · 과거 데이터 탐색 및 경보 재생
 
-[결과보고서](report/4조_결과보고서_261013.pdf) · [문제정의서](report/문제정의서.pdf) · [발표 자료](report/presentation/index.html) · [센서 변수 설명](data/COLUMN.md)
+[결과보고서](report/4조_결과보고서_261013.pdf) · [문제정의서](report/문제정의서.pdf) · [발표 자료](https://anapo100.github.io/APU_data_analysis/report/presentation/index.html) · [센서 변수 설명](data/COLUMN.md)
 
 ## 분석 결과
 
