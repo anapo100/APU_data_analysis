@@ -106,3 +106,8 @@ html:fullscreen body,html.is-fullscreen body{background:white}
 #slide-12 .metric-line{font-size:20px;line-height:1.35;margin:18px 0 4px!important;padding-left:102px;white-space:nowrap}
 #slide-12 .f1{line-height:1.2;margin:0!important;padding-left:102px}
 #slide-12 .source{margin-top:24px!important}
+
+/* Video slide: preserve the deck header/footer and show the full frame. */
+.video-slide .video-frame{margin:0;display:flex;justify-content:center}
+.video-slide .presentation-video{display:block;width:1048px;height:590px;max-width:100%;object-fit:contain;background:#000}
+.video-slide .presentation-video:focus-visible{outline:3px solid var(--blue);outline-offset:4px}
